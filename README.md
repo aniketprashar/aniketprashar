@@ -33,4 +33,11 @@ I'm [Aniket Prashar](https://www.linkedin.com/in/aniketprashar/), a Senior Cloud
 - 🎬 Watch Dr. Stone
 - 😴 Get more sleep
 
+**Tech Blogs:**
+
+- [Trigger a pipeline using a webhook](https://levelup.gitconnected.com/trigger-a-pipeline-using-webhook-586a664addd7)
+- [Continuous integration and delivery in Azure Databricks](https://levelup.gitconnected.com/continuous-integration-and-delivery-in-azure-databricks-1ba56da3db45)
+- [Continuous integration and delivery in Azure Data Factory](https://levelup.gitconnected.com/continuous-integration-and-delivery-in-azure-data-factory-ea6a8a2d779d)
+- [Configure CI/CD pipelines for NodeJs Applications with Azure DevOps](https://levelup.gitconnected.com/configure-ci-cd-pipelines-for-nodejs-applications-with-azure-devops-44e7425f5a99)
+
 **🌎 Find me on any platform @aniketprashar**
