@@ -33,4 +33,4 @@ I'm [Aniket Prashar](https://www.linkedin.com/in/aniketprashar/), a Senior Cloud
 - 🎬 Watch Dr. Stone
 - 😴 Get more sleep
 
-### 🌎 Find me on any platform @aniketprashar
+**🌎 Find me on any platform @aniketprashar**
