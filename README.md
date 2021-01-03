@@ -29,7 +29,7 @@ I'm [Aniket Prashar](https://www.linkedin.com/in/aniketprashar/), a Senior Cloud
 **My To-Do List:**
 - 📚 Learn System Design
 - ➕ Contribute to Open Source
-- 🎮 Improve K/D ratio in PUBG Mobile. Feel free to add me @Darkod3r
+- 🎮 ~~Improve K/D ratio in PUBG Mobile. Feel free to add me @Darkod3r~~
 - 🎬 Watch Dr. Stone
 - 😴 Get more sleep
 
